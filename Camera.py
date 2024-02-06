@@ -8,6 +8,12 @@ headers = {
     'Content-Type': 'application/x-www-form-urlencoded',
     'Authorization': 'Bearer ' + token #เพื่อระบุว่า token คืออะไร
 }
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#awdawgio9h9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 msg = 'ตรวจพบความเคลื่อนไหวของกล้องPoom'#ข้อความเเสดงเเจ้งเตือนในไลน์
 
